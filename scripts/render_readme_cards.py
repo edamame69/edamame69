@@ -244,8 +244,8 @@ PROJECTS = (
      "#234bd7", "M218 38h36m-6-6 6 6-6 6m6 13h-36m6-6-6 6 6 6"),
     ("mycloud", "MyCloud", "ONGOING", ("File and folder metadata", "with per-user access"),
      "#10675c", "M216 57V37h15l5 5h21v18h-41zM224 49h24"),
-    ("smartroom", "Smart Room IoT", "MQTT DASHBOARD", ("ESP8266 telemetry", "and LED controls"),
-     "#a84632", "M216 57h8l6-18 7 24 6-15h15"),
+    ("epl-zone", "EPL Zone", "PLAYER STATS API", ("Premier League player stats", "Search, filters and CRUD"),
+     "#a84632", "M226 38h20v10a10 10 0 0 1-20 0V38zM226 41h-7v4a7 7 0 0 0 7 7m20-11h7v4a7 7 0 0 1-7 7m-10 6v6m-8 0h16"),
 )
 
 

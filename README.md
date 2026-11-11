@@ -6,9 +6,9 @@
 
 <a href="https://github.com/edamame69/banking-app"><img src="./cards/banking.svg" width="32.5%" alt="Banking Backend — Spring Boot API with atomic transfers and optimistic locking."></a>
 <a href="https://github.com/edamame69/MyCloud"><img src="./cards/mycloud.svg" width="32.5%" alt="MyCloud — Ongoing Java project for file and folder metadata with per-user access."></a>
-<a href="https://github.com/edamame69/smartroom-iot"><img src="./cards/smartroom.svg" width="32.5%" alt="Smart Room IoT — ESP8266 telemetry and LED controls with MQTT and Spring Boot."></a>
+<a href="https://github.com/edamame69/EPL_zone"><img src="./cards/epl-zone.svg" width="32.5%" alt="EPL Zone — Spring Boot REST API for Premier League player statistics, search, filters and CRUD."></a>
 
-[Banking Backend](https://github.com/edamame69/banking-app) · [MyCloud](https://github.com/edamame69/MyCloud) · [Smart Room IoT](https://github.com/edamame69/smartroom-iot) · [All repositories](https://github.com/edamame69?tab=repositories)
+[Banking Backend](https://github.com/edamame69/banking-app) · [MyCloud](https://github.com/edamame69/MyCloud) · [EPL Zone](https://github.com/edamame69/EPL_zone) · [All repositories](https://github.com/edamame69?tab=repositories)
 
 ## GitHub activity
 
