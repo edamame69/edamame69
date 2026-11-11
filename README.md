@@ -15,14 +15,3 @@
 <img src="./cards/contributions.svg" width="100%" alt="Daily GitHub contribution heatmap for the past 365 days.">
 
 <img src="./cards/activity.svg" width="100%" alt="Monthly contributions, active days, longest streak, and busiest day.">
-
-<details>
-<summary>How these cards are built</summary>
-
-A Python script renders the SVGs from my [public GitHub contribution calendar](https://github.com/users/edamame69/contributions). A GitHub Actions workflow refreshes them daily. The cards respect your system's reduced-motion preference.
-
-Run `python3 scripts/render_readme_cards.py` to refresh the cards locally or `STATIC=1 python3 scripts/render_readme_cards.py --output-dir /tmp/profile-preview` to render the final frame for a preview.
-
-Inspired by [Avi Vashishta's animated GitHub profile README](https://www.avivashishta.com/blog/github-profile-readme-animated-svg-cards).
-
-</details>
